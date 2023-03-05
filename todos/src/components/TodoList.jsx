@@ -13,7 +13,7 @@ export const TodoList = (props) => {
                             {!item.done && item.title}
                         </td>
                         <td>
-                            <buttom className="buttom is-success" title="Пометить как сделанное" disabled={item.done} >
+                            <buttom className="button is-success" title="Пометить как сделанное" disabled={item.done} >
                                 &#9745;
                             </buttom>
                         </td>
