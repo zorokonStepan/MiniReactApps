@@ -1,1 +1,1 @@
-![alt text](./src/img/counter-hooks.png )
+![alt text text-align: center;](./src/img/counter-hooks.png )
